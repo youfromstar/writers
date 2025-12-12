@@ -160,7 +160,7 @@
 ---
 ## 8. 📱 앱 소개 — 작가포털 & 별당 앱
 
-### 🖥 A. 작가포털 (운영 및 관리 시스템)
+### 🖥 A. 작가포털 (운영 및 관리 시스템) : https://writer.odha.com
 * 작가 등록 및 관리
 * 스토리 등록 (1·2레벨)
 * 스토리 승인/검수 시스템
@@ -266,7 +266,7 @@ A soft dreamy portrait of a celestial storyteller woman, clean symmetrical face,
 ---
 ## 12. 🛠 실습 안내 (Hands-on Practice)
 
-### ✔ STEP 1. 작가 생성 실습
+### ✔ STEP 1. 작가 생성 실습(https://writer.odha.com)
 * 작가 생성 (이미지 포함)
 * 1레벨/2레벨 스토리 각 1개 생성 및 등록
 * 포털에서 등록된 스토리의 승인 상태 확인
